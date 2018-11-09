@@ -1,2 +1,2 @@
-# my-portfolio
-portfolio tutorial AWS &amp; React JS
+# Fahd Mannaa Portfolio
+this is AWS and React JS tutorial
